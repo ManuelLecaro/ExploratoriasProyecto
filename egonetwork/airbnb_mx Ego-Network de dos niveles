@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>12/08/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="airbnb_mx" label="airbnb_mx" />
+      <node id="IvetteAguilar5" label="IvetteAguilar5">
+        <attvalues>
+          <attvalue for="0" value="4333" />
+        </attvalues>
+      </node>
+      <node id="Richlopezg" label="Richlopezg">
+        <attvalues>
+          <attvalue for="0" value="1717" />
+        </attvalues>
+      </node>
+      <node id="chrislehane" label="chrislehane">
+        <attvalues>
+          <attvalue for="0" value="2488" />
+        </attvalues>
+      </node>
+      <node id="sergio_carrasco" label="sergio_carrasco">
+        <attvalues>
+          <attvalue for="0" value="9118" />
+        </attvalues>
+      </node>
+      <node id="dianagyn" label="dianagyn">
+        <attvalues>
+          <attvalue for="0" value="9660" />
+        </attvalues>
+      </node>
+      <node id="nacho_aldaz" label="nacho_aldaz">
+        <attvalues>
+          <attvalue for="0" value="3272" />
+        </attvalues>
+      </node>
+      <node id="liderenturismo" label="liderenturismo">
+        <attvalues>
+          <attvalue for="0" value="51961" />
+        </attvalues>
+      </node>
+      <node id="Sanhgerman" label="Sanhgerman">
+        <attvalues>
+          <attvalue for="0" value="12154" />
+        </attvalues>
+      </node>
+      <node id="elgourmet" label="elgourmet">
+        <attvalues>
+          <attvalue for="0" value="20059" />
+        </attvalues>
+      </node>
+      <node id="pujolrestaurant" label="pujolrestaurant">
+        <attvalues>
+          <attvalue for="0" value="3164" />
+        </attvalues>
+      </node>
+      <node id="enriqueolvera" label="enriqueolvera">
+        <attvalues>
+          <attvalue for="0" value="6083" />
+        </attvalues>
+      </node>
+      <node id="yoviajeromx" label="yoviajeromx">
+        <attvalues>
+          <attvalue for="0" value="226" />
+        </attvalues>
+      </node>
+      <node id="TurismoEE" label="TurismoEE">
+        <attvalues>
+          <attvalue for="0" value="10983" />
+        </attvalues>
+      </node>
+      <node id="RevistaNomada" label="RevistaNomada">
+        <attvalues>
+          <attvalue for="0" value="119327" />
+        </attvalues>
+      </node>
+      <node id="VisitMex" label="VisitMex">
+        <attvalues>
+          <attvalue for="0" value="16618" />
+        </attvalues>
+      </node>
+      <node id="angelterral" label="angelterral">
+        <attvalues>
+          <attvalue for="0" value="116" />
+        </attvalues>
+      </node>
+      <node id="NatGeo_la" label="NatGeo_la">
+        <attvalues>
+          <attvalue for="0" value="35685" />
+        </attvalues>
+      </node>
+      <node id="Forbes_Mexico" label="Forbes_Mexico">
+        <attvalues>
+          <attvalue for="0" value="188221" />
+        </attvalues>
+      </node>
+      <node id="RevistaNatGeo" label="RevistaNatGeo">
+        <attvalues>
+          <attvalue for="0" value="20215" />
+        </attvalues>
+      </node>
+      <node id="NGTravelerLatin" label="NGTravelerLatin">
+        <attvalues>
+          <attvalue for="0" value="19390" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="airbnb_mx" target="IvetteAguilar5" weight="107.04443271089701" />
+      <edge id="1" source="airbnb_mx" target="Richlopezg" weight="108.99790470700842" />
+      <edge id="2" source="airbnb_mx" target="chrislehane" weight="91.95876817440093" />
+      <edge id="3" source="airbnb_mx" target="sergio_carrasco" weight="83.09348015944093" />
+      <edge id="4" source="airbnb_mx" target="dianagyn" weight="107.20633623928403" />
+      <edge id="5" source="airbnb_mx" target="nacho_aldaz" weight="108.50487160950496" />
+      <edge id="6" source="airbnb_mx" target="liderenturismo" weight="-41.00318265659049" />
+      <edge id="7" source="airbnb_mx" target="Sanhgerman" weight="96.4631253882587" />
+      <edge id="8" source="airbnb_mx" target="elgourmet" weight="-69.35897384735198" />
+      <edge id="9" source="airbnb_mx" target="pujolrestaurant" weight="-70.38430446513058" />
+      <edge id="10" source="airbnb_mx" target="enriqueolvera" weight="-84.16414228515507" />
+      <edge id="11" source="airbnb_mx" target="yoviajeromx" weight="108.1992174649533" />
+      <edge id="12" source="airbnb_mx" target="TurismoEE" weight="90.20532335373842" />
+      <edge id="13" source="airbnb_mx" target="RevistaNomada" weight="58.71055613774019" />
+      <edge id="14" source="airbnb_mx" target="VisitMex" weight="-104.72208712847662" />
+      <edge id="15" source="airbnb_mx" target="angelterral" weight="86.394964387272" />
+      <edge id="16" source="airbnb_mx" target="NatGeo_la" weight="-103.27585982558648" />
+      <edge id="17" source="airbnb_mx" target="Forbes_Mexico" weight="-94.30610711329288" />
+      <edge id="18" source="airbnb_mx" target="RevistaNatGeo" weight="-85.59679592614275" />
+      <edge id="19" source="airbnb_mx" target="NGTravelerLatin" weight="47.575161190727016" />
+      <edge id="20" source="enriqueolvera" target="yoviajeromx" weight="-1.522672874520476" />
+    </edges>
+  </graph>
+</gexf>
