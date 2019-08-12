@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="weight" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>12/08/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="CansingJosue" label="CansingJosue">
+	<attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="Sebastian13AC" label="Sebastian13AC">
+        <attvalues>
+          <attvalue for="0" value="1705" />
+        </attvalues>
+      </node>
+      <node id="paultapiam" label="paultapiam">
+        <attvalues>
+          <attvalue for="0" value="1469" />
+        </attvalues>
+      </node>
+      <node id="rebuscarla" label="rebuscarla">
+        <attvalues>
+          <attvalue for="0" value="20205" />
+        </attvalues>
+      </node>
+      <node id="_paleg" label="_paleg">
+        <attvalues>
+          <attvalue for="0" value="26832" />
+        </attvalues>
+      </node>
+      <node id="dracoroma" label="dracoroma">
+        <attvalues>
+          <attvalue for="0" value="88" />
+        </attvalues>
+      </node>
+      <node id="sweetparody" label="sweetparody">
+        <attvalues>
+          <attvalue for="0" value="11364" />
+        </attvalues>
+      </node>
+      <node id="fsdgefsbjh" label="fsdgefsbjh">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </node>
+      <node id="Pokemon" label="Pokemon">
+        <attvalues>
+          <attvalue for="0" value="90806" />
+        </attvalues>
+      </node>
+      <node id="daniel0ar" label="daniel0ar">
+        <attvalues>
+          <attvalue for="0" value="721" />
+        </attvalues>
+      </node>
+      <node id="DSimphony" label="DSimphony">
+        <attvalues>
+          <attvalue for="0" value="134599" />
+        </attvalues>
+      </node>
+      <node id="Naishys" label="Naishys">
+        <attvalues>
+          <attvalue for="0" value="18948" />
+        </attvalues>
+      </node>
+      <node id="losjuegosdesag" label="losjuegosdesag">
+        <attvalues>
+          <attvalue for="0" value="3334" />
+        </attvalues>
+      </node>
+      <node id="al3xdonut" label="al3xdonut">
+        <attvalues>
+          <attvalue for="0" value="9279" />
+        </attvalues>
+      </node>
+      <node id="levengames" label="levengames">
+        <attvalues>
+          <attvalue for="0" value="17758" />
+        </attvalues>
+      </node>
+      <node id="splatebot" label="splatebot">
+        <attvalues>
+          <attvalue for="0" value="117298" />
+        </attvalues>
+      </node>
+      <node id="javier09875" label="javier09875">
+        <attvalues>
+          <attvalue for="0" value="169" />
+        </attvalues>
+      </node>
+      <node id="LittleNova20" label="LittleNova20">
+        <attvalues>
+          <attvalue for="0" value="18867" />
+        </attvalues>
+      </node>
+      <node id="SonyPicturesMX" label="SonyPicturesMX">
+        <attvalues>
+          <attvalue for="0" value="13977" />
+        </attvalues>
+      </node>
+      <node id="OnePiecePodcast" label="OnePiecePodcast">
+        <attvalues>
+          <attvalue for="0" value="41561" />
+        </attvalues>
+      </node>
+      <node id="oficailDaftpunk" label="oficailDaftpunk">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="CansingJosue" target="Sebastian13AC" weight="-0.3817991631799163" />
+      <edge id="1" source="CansingJosue" target="paultapiam" weight="-0.24305555555555558" />
+      <edge id="2" source="CansingJosue" target="rebuscarla" weight="-0.4033119658119658" />
+      <edge id="3" source="CansingJosue" target="_paleg" weight="-0.4125207296849088" />
+      <edge id="4" source="CansingJosue" target="dracoroma" weight="-0.17857142857142858" />
+      <edge id="5" source="CansingJosue" target="sweetparody" weight="-0.4114874663351979" />
+      <edge id="6" source="CansingJosue" target="fsdgefsbjh" weight="-0.08333333333333334" />
+      <edge id="7" source="CansingJosue" target="daniel0ar" weight="-0.3483606557377049" />
+      <edge id="8" source="CansingJosue" target="DSimphony" weight="-0.416573186007815" />
+      <edge id="9" source="CansingJosue" target="Naishys" weight="-0.4165220735805297" />
+      <edge id="10" source="CansingJosue" target="losjuegosdesag" weight="-0.41347626339969373" />
+      <edge id="11" source="CansingJosue" target="al3xdonut" weight="-0.4161855551065181" />
+      <edge id="12" source="CansingJosue" target="levengames" weight="-0.4158903173715919" />
+      <edge id="13" source="CansingJosue" target="splatebot" weight="-0.41175604007071304" />
+      <edge id="14" source="CansingJosue" target="javier09875" weight="-0.2314814814814815" />
+      <edge id="15" source="CansingJosue" target="LittleNova20" weight="-0.4106367583212735" />
+      <edge id="16" source="CansingJosue" target="SonyPicturesMX" weight="-0.41665978094025424" />
+      <edge id="17" source="CansingJosue" target="Pokemon" weight="-0.4166651543116335" />
+      <edge id="18" source="CansingJosue" target="OnePiecePodcast" weight="-0.4164680316862521" />
+      <edge id="19" source="CansingJosue" target="oficailDaftpunk" weight="-0.4165817028782333" />
+      <edge id="20" source="fsdgefsbjh" target="Pokemon" weight="-0.6818144696773778" />
+      <edge id="21" source="DSimphony" target="losjuegosdesag" weight="-68.1776485436023" />
+      <edge id="22" source="Naishys" target="losjuegosdesag" weight="-66.03230570545638" />
+      <edge id="23" source="losjuegosdesag" target="al3xdonut" weight="-53.388933527511334" />
+    </edges>
+  </graph>
+</gexf>
